@@ -12,7 +12,7 @@ This project is an interactive Power BI dashboard built to analyze retail busine
 - Total Profit
 - Total Orders
 - Total Customers
-
+![Dashboard](Dashboard.png)
 ## Dashboard Features
 - Sales by Category
 - Profit by Category
