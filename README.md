@@ -20,7 +20,10 @@ This project is an interactive Power BI dashboard built to analyze retail busine
 - Sales by Region
 - Sales by Segment
 - KPI Cards
+- 
+## Dashboard Preview
 
+![Dashboard](Dashboard.png)
 ## Business Insights
 - Technology category generated the highest sales.
 - West region contributed the highest revenue.
@@ -33,3 +36,5 @@ This project is an interactive Power BI dashboard built to analyze retail busine
 
 ## Author
 Harika Dasari
+
+
